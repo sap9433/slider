@@ -1,7 +1,7 @@
 {
-  "name": "rc-slider",
-  "version": "4.0.1",
-  "description": "slider ui component for react",
+  "name": "react-input-slider",
+  "version": "0.0.1",
+  "description": "input slider component for react. Customized for paytm",
   "keywords": [
     "react",
     "react-component",
@@ -9,7 +9,7 @@
     "slider"
   ],
   "homepage": "http://github.com/react-component/slider",
-  "author": "sima.zhang1990@gmail.com",
+  "author": "saptarshi.chatterjee@paytm.com",
   "repository": {
     "type": "git",
     "url": "git@github.com:react-component/slider.git"
